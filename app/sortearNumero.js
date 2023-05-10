@@ -11,5 +11,3 @@ elementoMenorValor.innerHTML = menorValor
 
 const elmentoMaiorValor = document.getElementById('maior-valor')
 elmentoMaiorValor.innerHTML = maiorValor
-
-console.log(numeroSecreto)
